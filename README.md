@@ -10,6 +10,6 @@ Completed user stories:
  * [x] [require] user can remove an item from the todo list
 
 Walkthrough of all user stories:
-![Video Walkthrough](todoapp.gif)
+![Video Walkthrough](ToDoApp.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
